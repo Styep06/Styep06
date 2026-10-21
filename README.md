@@ -5,14 +5,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Styep06">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Creative+Developer+%F0%9F%8E%A8;Full-Stack+Web+Development+%F0%9F%92%BB;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Building+with+Blockchain+%E2%9B%93%EF%B8%8F;Turning+Ideas+Into+Working+Products+%E2%9C%A8" alt="Animated introduction"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Creative+Developer+%F0%9F%8E%A8;Full-Stack+Web+Development+%F0%9F%92%BB;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Building+with+Blockchain+%E2%9B%93%EF%B8%8F;Turning+Ideas+Into+Working+Products+%E2%9C%A8" alt="Animated developer introduction"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/Styep06?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_My_Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
+    <img src="https://img.shields.io/badge/Explore_My_Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects"/>
   </a>
   <a href="https://github.com/Styep06?tab=followers">
     <img src="https://img.shields.io/github/followers/Styep06?style=for-the-badge&logo=github&label=Followers&color=0891B2" alt="GitHub followers"/>
@@ -23,13 +21,13 @@
 
 ## 🌌 About Me
 
-I'm a Computer Engineering student who loves building things that live at the intersection of **technology, creativity, and problem-solving**.
+I'm a Computer Engineering student who loves building things at the intersection of **technology, creativity, and problem-solving**.
 
 - 💻 Exploring full-stack web development and modern application design.
 - 🤖 Building and experimenting with AI-powered applications.
 - ⛓️ Exploring blockchain, smart contracts, and decentralized technology.
 - 🎨 Interested in creative UI/UX, interactive experiences, and clean design.
-- 🚀 Always learning, shipping projects, and experimenting with new ideas.
+- 🚀 Always learning, building projects, and experimenting with new ideas.
 
 > *I don't just want to write code. I want to build things people love to use.*
 
@@ -38,21 +36,25 @@ I'm a Computer Engineering student who loves building things that live at the in
 ## 🧩 My Tech Universe
 
 <p align="center">
-  <b>FRONTEND & WEB</b>
+  <b>🎨 FRONTEND & WEB DEVELOPMENT</b>
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&perline=8" alt="Frontend technologies"/>
 </p>
 
 <p align="center">
-  <b>BACKEND & DATABASES</b>
+  <b>⚙️ BACKEND & DATABASES</b>
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,firebase,supabase,mysql,mongodb&perline=8" alt="Backend technologies"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,firebase,supabase,mysql,mongodb&perline=8" alt="Backend and database technologies"/>
 </p>
 
 <p align="center">
-  <b>AI, BLOCKCHAIN & TOOLS</b>
+  <b>🤖 AI, BLOCKCHAIN & DEVELOPER TOOLS</b>
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,solidity,hardhat,git,github,docker,linux,vscode&perline=8" alt="AI, blockchain, and development tools"/>
+  <img src="https://skillicons.dev/icons?i=python,git,github,docker,linux,vscode&perline=6" alt="Developer tools"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
+  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black" alt="Hardhat"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
 </p>
 
 ---
@@ -69,7 +71,7 @@ I'm a Computer Engineering student who loves building things that live at the in
     </td>
     <td width="50%" valign="top">
       <h3>💸 FinFlow</h3>
-      <p>A React expense-tracking project focused on making personal finance easier to understand and manage.</p>
+      <p>A React expense tracker focused on making personal finance easier to understand and manage.</p>
       <p><b>Stack:</b> React · JavaScript · CSS</p>
       <a href="https://github.com/Styep06?tab=repositories">Explore repositories ↗</a>
     </td>
@@ -92,7 +94,7 @@ I'm a Computer Engineering student who loves building things that live at the in
 
 <p align="center">
   <a href="https://github.com/Styep06?tab=repositories">
-    <img src="https://img.shields.io/badge/More_Projects-Explore_All-7C3AED?style=for-the-badge&logo=github" alt="More projects"/>
+    <img src="https://img.shields.io/badge/More_Projects-Explore_All-7C3AED?style=for-the-badge&logo=github" alt="Explore all projects"/>
   </a>
 </p>
 
@@ -102,7 +104,7 @@ I'm a Computer Engineering student who loves building things that live at the in
 
 <p align="center">
   <img height="175" src="https://github-readme-stats.vercel.app/api?username=Styep06&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Styep06&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used languages"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Styep06&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used programming languages"/>
 </p>
 
 <p align="center">
@@ -134,11 +136,11 @@ I'm a Computer Engineering student who loves building things that live at the in
   <a href="https://github.com/Styep06">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="[https://www.linkedin.com/in/stephen-nadar-b03310338/](https://www.linkedin.com/in/stephen-nadar-b03310338/)">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — replace with your profile"/>
+  <a href="https://www.linkedin.com/in/stephen-nadar-b03310338/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email — replace with your address"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
