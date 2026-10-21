@@ -1,6 +1,6 @@
 # Hey, I'm Stephen Nadar 👋
 
-### Computer Engineering Student | Developer | AI & Blockchain Enthusiast
+### Computer Engineering Student | Developer | AI Enthusiast
 
 Building things for the web, exploring intelligent systems, and turning ideas into real-world projects.
 
